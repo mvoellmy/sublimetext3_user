@@ -6,10 +6,15 @@
 	"installed_packages":
 	[
 		"BracketFlasher",
+		"Colorsublime",
+		"GitGutter",
 		"MarkdownPreview",
 		"Package Control",
-		"Python PEP8 Autoformat",
 		"rsub",
-		"Theme - Cobalt2"
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-bandit",
+		"SublimeLinter-clang"
 	]
 }
