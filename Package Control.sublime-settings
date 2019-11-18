@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"BracketFlasher",
 		"MarkdownPreview",
 		"Package Control",
 		"Python PEP8 Autoformat",
