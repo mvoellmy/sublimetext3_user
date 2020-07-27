@@ -5,16 +5,26 @@
 	],
 	"installed_packages":
 	[
+		"ApplySyntax",
 		"BracketFlasher",
 		"Colorsublime",
 		"GitGutter",
 		"MarkdownPreview",
+		"Open URL",
 		"Package Control",
+		"PyYapf Python Formatter",
+		"QuickGotoAnything",
 		"rsub",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-ament_cpplint",
 		"SublimeLinter-annotations",
-		"SublimeLinter-bandit",
-		"SublimeLinter-clang"
+		"SublimeLinter-flake8",
+		"SublimeLinter-pycodestyle",
+		"Uncrustify"
+	],
+	"repositories":
+	[
+		"https://github.com/mvoellmy/SublimeLinter-ament_cpplint"
 	]
 }
