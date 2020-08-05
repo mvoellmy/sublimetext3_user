@@ -21,6 +21,7 @@
 		"SublimeLinter-annotations",
 		"SublimeLinter-flake8",
 		"SublimeLinter-pycodestyle",
+		"Theme - Cobalt2",
 		"Uncrustify"
 	],
 	"repositories":
