@@ -1,7 +1,7 @@
 {
 	"extensions":
 	[
-		"launch",
-		"xml.dist"
+		"pyw",
+		"py3"
 	]
 }

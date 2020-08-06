@@ -1,0 +1,43 @@
+// SublimeLinter Settings - User
+{
+    "debug": true,
+
+    "linters": {
+
+    "ament_cpplint": {
+                "@disable": false,
+            },
+
+	"pycodestyle": {
+                "@disable": false,
+                // Would be better to use the ROS config file.
+                // It somehow does not work properly so the hard coded line length is used instead.
+                "args": [
+                    // "-c=/home/freki/rover_wss/ros2_ws/src/ament_lint/ament_pycodestyle/ament_pycodestyle/configuration/ament_pycodestyle.ini"
+                ],
+				"max-line-length": 100,
+                "excludes": []
+            },
+    "flake8": {
+                "@disable": false,
+                // Would be better to use the ROS config file.
+                // It somehow does not work properly so the hard coded line length is used instead.
+                "args": [
+                    // "-c=/home/freki/rover_wss/ros2_ws/src/ament_lint/ament_pycodestyle/ament_pycodestyle/configuration/ament_pycodestyle.ini"
+                    "--max-line-length=100"
+                ],
+                "excludes": []
+            },
+
+    // Provide extra paths to be searched when locating system executables.
+    "paths": {
+        "linux": [
+            "/opt/ros/eloquent/bin/"
+        ],
+        "osx": [],
+        "windows": []
+    },
+
+    }
+
+}
