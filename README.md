@@ -17,6 +17,6 @@ Ubuntu:
 
 One line command for installation on new Ubuntu system:
 
-`git clone -b ubuntu https://github.com/mvoellmy/sublimetext3_user ~/.config/sublime-text-3/Packages/User`
+`git clone https://github.com/mvoellmy/sublimetext3_user ~/.config/sublime-text-3/Packages/User`
 
 Find the folder from Sublime Text 3 with `Preferences -> Browse Packages`.
