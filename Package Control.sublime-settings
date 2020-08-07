@@ -7,6 +7,7 @@
 	[
 		"ApplySyntax",
 		"BracketFlasher",
+		"CloseMinimapOnMultiView",
 		"Colorsublime",
 		"GitGutter",
 		"MarkdownPreview",
